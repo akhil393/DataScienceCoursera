@@ -6,7 +6,7 @@ This documents describes steps taken to extrac and Clean,Tidy the data set as pa
 Please run run_analysis.R to perform the Tidy of dataset
 --------------------------------------------------------
 Instructions in running run_analysis.R.
-Once Github repository is downloaded navigate to UCI HAR dataset set the workspace in R this location
+Once Github repository is downloaded navigate to UCI HAR dataset and set the workspace in R to UCI HAR data set folder location
 Run below command
 `````{r}
 source("run_analysis.R")
